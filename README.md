@@ -1,7 +1,7 @@
-wendell
-2 serie b
-ayrton senna
-tenho 18 anos
+- wendell gabriel cardoso chamorra
+- 2 serie b
+- ayrton senna
+- tenho 18 anos
 
 <!---
 wendellcar/wendellcar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
